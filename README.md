@@ -1,13 +1,15 @@
 <h1 align="center">Basavaraj Gudasalamani</h1>
 <h3 align="center">AI-Oriented Computer Science Engineer | Problem Solver | VTU Topical Strategist</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on VTU engineering assignments and AI-based academic projects.  
-👯 I’m looking to collaborate on CSE mini-projects, AI/ML case studies, and exam-oriented research work.  
-🤝 I’m looking for help with final-year project ideas, ML implementation, and technical paper writing.  
-🌱 I’m currently learning Artificial Intelligence, DBMS, Computer Networks, TOC, and SEPM.  
-💬 Ask me about VTU exam preparation, AI fundamentals, Python basics, and core CSE subjects.  
-⚡ Fun fact: I prepare smarter by studying previous year questions more than textbooks 😄  
+---
+
+## 👨‍💻 Professional Summary
+
+I am a disciplined Computer Science undergraduate with a strong focus on **Artificial Intelligence, system fundamentals, and academic-to-industry translation**.
+
+I specialize in converting theoretical subjects into **practical tools, automation workflows, and learning systems** that improve efficiency and performance.  
+My goal is to contribute as a **Software / AI Engineering Intern** in a team where engineering quality and learning speed matter.
+
 
 ---
 

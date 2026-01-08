@@ -1,4 +1,4 @@
-<h1 align="center">Basavaraj Gudasalamani</h1>
+<h1 align="center">Hi 👋, I'm Basavaraj M G </h1>
 <h3 align="center">AI-Oriented Computer Science Engineer | Problem Solver | VTU Topical Strategist</h3>
 
 ---

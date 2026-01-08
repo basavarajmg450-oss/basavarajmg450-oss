@@ -1,3 +1,6 @@
+<h1 align="center">Basavaraj Gudasalamani</h1>
+<h3 align="center">AI-Oriented Computer Science Engineer | Problem Solver | VTU Topical Strategist</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on VTU engineering assignments and AI-based academic projects.  
 👯 I’m looking to collaborate on CSE mini-projects, AI/ML case studies, and exam-oriented research work.  

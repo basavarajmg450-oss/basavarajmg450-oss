@@ -58,8 +58,9 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=basavarajmg450-oss&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=basavarajmg450-oss&theme=react-dark)
 
 ---
 

@@ -41,7 +41,9 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basavarajmg450-oss&theme=dark&hide_border=false)
+
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=basavarajmg450-oss&theme=dark&hide_border=false)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajmg450-oss&theme=dark&hide_border=false&layout=compact)
 
 ---

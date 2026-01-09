@@ -54,8 +54,6 @@ My goal is to contribute as a **Software / AI Engineering Intern** in a team whe
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=basavarajmg450-oss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 

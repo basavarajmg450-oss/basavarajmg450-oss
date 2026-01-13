@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a disciplined Computer Science undergraduate with a strong focus on **Artificial Intelligence, system fundamentals, and academic-to-industry translation**.
+I am a  Computer Science undergraduate with a strong focus on **Artificial Intelligence, system fundamentals, and academic-to-industry translation**.
 
 I specialize in converting theoretical subjects into **practical tools, automation workflows, and learning systems** that improve efficiency and performance.  
 My goal is to contribute as a **Software / AI Engineering Intern** in a team where engineering quality and learning speed matter.

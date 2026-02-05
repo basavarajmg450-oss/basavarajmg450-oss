@@ -46,11 +46,12 @@ My goal is to contribute as a **Software / AI Engineering Intern** in a team whe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basavarajmg450-oss&show_icons=true&theme=default)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=basavarajmg450-oss&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=basavarajmg450-oss)
+![Streak](https://streak-stats.demolab.com?user=basavarajmg450-oss)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajmg450-oss&layout=compact)
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=basavarajmg450-oss&layout=compact)
+
 
 
 ---

@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Basavaraj M G </h1>
-<h3 align="center">AI-Oriented Computer Science Engineer | Problem Solver | VTU Topical Strategist</h3>
+<h1 align="left">
+  I'm Basavaraj M G
+</h1>
+
+## 👋 Hi there, I'm Basavaraj M G || Computer Science & Engineering Student at Canara Engineering College, Bantwal.
 
 ---
 

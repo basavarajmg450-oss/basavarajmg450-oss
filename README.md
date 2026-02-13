@@ -13,6 +13,9 @@ I am a  Computer Science undergraduate with a strong focus on **Artificial Intel
 I specialize in converting theoretical subjects into **practical tools, automation workflows, and learning systems** that improve efficiency and performance.  
 My goal is to contribute as a **Software / AI Engineering Intern** in a team where engineering quality and learning speed matter.
 
+- 🌐 See my portfolio: [Click here](https://portfolio-theta-opal.vercel.app)
+
+
 
 ---
 

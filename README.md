@@ -1,48 +1,59 @@
 <h1 align="left">
-  I'm Basavaraj Gudasalamani
+  I'm Basavaraj M G
 </h1>
 
-## 👋 Hi there, I'm Basavaraj || MERN Stack Developer & Frontend Developer Intern
+## 👋 Hi there, I'm Basavaraj M G || Computer Science & Engineering Student at Canara Engineering College, Bantwal.
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I am a Computer Science undergraduate specializing in **MERN stack development and frontend engineering**.
+I am a  Computer Science undergraduate with a strong focus on **Artificial Intelligence, system fundamentals, and academic-to-industry translation**.
 
-I build **responsive, scalable web applications** using React.js, Node.js, and MongoDB, focusing on clean UI and real-world usability.  
-Currently working as a **Frontend Developer Intern**, gaining hands-on experience in building production-level features.
+I specialize in converting theoretical subjects into **practical tools, automation workflows, and learning systems** that improve efficiency and performance.  
+My goal is to contribute as a **Software / AI Engineering Intern** in a team where engineering quality and learning speed matter.
 
 - 🌐 See my portfolio: [Click here](https://my-portfolio-one-indol-57.vercel.app/)
 
----
 
-## 💻 Featured Project
-
-### 🚀 Placement Pro – MERN Job Portal
-- Developed a full-stack job portal using **React.js, Node.js, and MongoDB**  
-- Implemented **user authentication, job listings, and responsive UI**  
-- 🌐 Live Demo: https://sit-3-fhtx.vercel.app  
-- 💻 GitHub: https://github.com/your-username/placement-pro  
 
 ---
 
 ## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/17se5hqweE/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/b_a_s_u_0012_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basavaraj-gudasalamani-b98a962a4)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basavarajmg450@gmail.com)
 
 ---
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Testing Library](https://img.shields.io/badge/TestingLibrary-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+
+
+---
+
 
 ---
 

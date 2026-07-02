@@ -2,7 +2,7 @@
   I'm Basavaraj Gudasalamani
 </h1>
 
-## 👋 Hi there, I'm Basavaraj || MERN Stack Developer & Frontend Developer Intern
+## 👋 Hi there, I'm Basavaraj || FULL STACK DEVELOPER(MERN STACK)
 
 ---
 

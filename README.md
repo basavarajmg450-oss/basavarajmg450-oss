@@ -23,7 +23,7 @@ Currently working as a **Frontend Developer Intern**, gaining hands-on experienc
 - Developed a full-stack job portal using **React.js, Node.js, and MongoDB**  
 - Implemented **user authentication, job listings, and responsive UI**  
 - 🌐 Live Demo: https://sit-3-fhtx.vercel.app  
-- 💻 GitHub: https://github.com/your-username/placement-pro  
+- 💻 GitHub: https://github.com/basavarajmg450-oss/SIT-3  
 
 ---
 

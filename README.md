@@ -11,7 +11,7 @@
 I am a Computer Science undergraduate specializing in **MERN stack development and frontend engineering**.
 
 I build **responsive, scalable web applications** using React.js, Node.js, and MongoDB, focusing on clean UI and real-world usability.  
-Currently working as a **Frontend Developer Intern**, gaining hands-on experience in building production-level features.
+
 
 - 🌐 See my portfolio: [Click here](https://basavarj-portfolio.vercel.app/)
 
